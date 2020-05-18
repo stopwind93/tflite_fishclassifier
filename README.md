@@ -1,4 +1,4 @@
-# tflite_fishapp
+# tflite_fishclassifier
 1) Transfer learning using a TensorFlow model with different kinds of fishes
 2) Integrate the tflite model into Android App
 
