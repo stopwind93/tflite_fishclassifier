@@ -1,0 +1,3 @@
+bawal_emas
+bawal_hitam
+bawal_putih
